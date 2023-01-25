@@ -1,0 +1,35 @@
+name: hestinn
+description: Doctor Appointment App
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: '>=2.19.0-177.0.dev <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  # flutter_svg: ^1.1.5
+  firebase_core:  
+  firebase_auth: 
+  firebase_analytics:
+  shared_preferences: ^2.0.15
+  cloud_firestore: ^4.2.0
+  firebase_storage: ^11.0.8
+  image_picker: ^0.8.6
+  permission_handler:
+  path:  
+  intl: ^0.18.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/cats/
+
+fonts:
+      - family: Medical
+        fonts:
+          - asset: fonts/webfont-medical-icons.ttf
