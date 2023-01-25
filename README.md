@@ -4,7 +4,7 @@ Clinical appointment is a doctor appointment app. Written in Flutter. Inspired b
 
 ![base-image](assets/screens/screen1.png.png?compress=1&resize=800x600&vertical=top)
 
-![alt text](https://github.com/dilovan/clinic_appointment/blob/main/screen1.png?raw=true)
+![alt text](https://github.com/dilovan/clinic_appointment/tree/assets/screens/screen1.png)
 
 
 ## License
